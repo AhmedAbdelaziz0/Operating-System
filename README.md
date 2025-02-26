@@ -2,8 +2,6 @@
 
 ## Announcement
 
-You must make sure that biosputs and biosgets work before next section.
+Section 1 answer is available in `Section 1/Tasks`
 
-Section 2 task is uploaded.
-
-We aim to make a shell such as powershell or bash.
+Section 2 must be handed at the begining of the next section.
