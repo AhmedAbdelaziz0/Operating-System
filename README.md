@@ -2,10 +2,17 @@
 
 ## Announcement
 
-Section 1 answer is available in `Section 1/Tasks`
+Section 5 is now available.
 
-Section 2 must be handed at the begining of the next section.
+- In next section we will have tiny introduction to:
+    - linux and its commands
+    - how to compile and run C programs
+    - Writing our very simple multi-threaded program
 
-Section 3 is Uploaded
+- This sheet will be handed-in after Eid.
 
-Sectoin 2 solution is uploaded
+## Pre-requisites
+
+- you need to have working installation of linux of any distrubution.
+- you can install it on virtual machine.
+- after installing linux, install codeblocks, or use any IDE/editor.
