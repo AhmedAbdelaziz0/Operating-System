@@ -65,7 +65,9 @@ When you press the **Compile** button in your favorite IDE, several steps happen
 4. **Automation Tools**  
    On modern systems, tools like **CMake** or **Makefiles** automate compilation and linking. They manage dependencies and build steps for you.
 
-Since DOSBox emulates an older environment, we won’t have the luxury of using CMake. Instead, we’ll rely on a simple script that compiles and runs C files inside DOSBox. (See the provided video for installation and usage.)
+Since DOSBox emulates an older environment, we won’t have the luxury of using CMake.
+Instead, we’ll rely on a simple script that compiles and runs C files inside DOSBox. (See the provided video for installation and usage.)
+Installation instruction can be found [here](https://aunedu-my.sharepoint.com/:v:/g/personal/ahmed_abdelaziz_aun_edu_eg/IQAQqKpYjbp-SKpOWBDvL-2QAR_dHJl4PUjrD3BjUP_AybI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TqaQj1).
 
 ---
 
@@ -87,7 +89,7 @@ practice using the BIOS to do some simple I/O operations.
 
 ### Installation
 
-See the video and follow the instructions.
+See the [video](https://aunedu-my.sharepoint.com/:v:/g/personal/ahmed_abdelaziz_aun_edu_eg/IQAQqKpYjbp-SKpOWBDvL-2QAR_dHJl4PUjrD3BjUP_AybI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TqaQj1) and follow the instructions if you have not already.
 > Why do we need DosBox?
 
 ### First Compilation
