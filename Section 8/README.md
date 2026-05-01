@@ -1,0 +1,5 @@
+# Section 8 (Deadlock)
+
+See
+[Video of Deadlock](https://aunedu-my.sharepoint.com/:v:/g/personal/ahmed_abdelaziz_aun_edu_eg/IQCeiEUfsTNwQKHjGKKKvSWYAQZpV7_rf6HEdoe2DxWRS_o?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PbcRyG)
+ solving problems.
