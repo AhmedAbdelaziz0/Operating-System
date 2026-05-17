@@ -1,4 +1,4 @@
-\# Sheet 10 !\[Virtual Memory](https://drive.google.com/file/d/1r3J6uefKng8DqvZQ6bnwwimWjhoTAVtP/view?usp=sharing)
+# Sheet 10 [Virtual Memory](https://drive.google.com/file/d/1r3J6uefKng8DqvZQ6bnwwimWjhoTAVtP/view?usp=sharing)
 
 
 
